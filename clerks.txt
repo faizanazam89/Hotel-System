@@ -1,0 +1,2 @@
+clerk1,password1
+baylor1,baylor1
